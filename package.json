@@ -1,0 +1,25 @@
+{
+  "name": "ndse",
+  "version": "1.0.0",
+  "description": "CLI for working with dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ndse": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniygolikov/ndse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniygolikov/ndse/issues"
+  },
+  "homepage": "https://github.com/evgeniygolikov/ndse#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
